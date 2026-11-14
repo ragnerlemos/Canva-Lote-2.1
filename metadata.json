@@ -1,0 +1,6 @@
+{
+  "name": "Canva Lote 2.0",
+  "description": "Aplicativo profissional de geração de designs em lote para o Canva. Identifique textos, selecione um elemento e substitua automaticamente por centenas de frases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
